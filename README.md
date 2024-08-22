@@ -9,3 +9,4 @@ Includes:
 - Proof of Cook-Levin Theorem
 - Freivalds Algorithm
 - Sumcheck Protocol
+  - Interactive Proof for Matrix Multiplication
